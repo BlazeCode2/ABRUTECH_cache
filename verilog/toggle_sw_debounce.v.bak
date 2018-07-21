@@ -1,0 +1,15 @@
+module toggle_sw_debounce #(parameter no_of_switches = 9)
+	(clock,in,out);
+	
+input     clock;
+input  [no_of_switches-1:0] in;
+output reg [no_of_switches-1:0] out;
+	
+reg [7:0] counter=8'd0;	
+
+always @(posedge clock)
+	begin
+		
+	end 
+	
+endmodule 

@@ -1,0 +1,6 @@
+
+State Machine - |top_level_cache|cache_controller:cache_ctrl|STATE
+Name STATE.00 STATE.10 STATE.01 
+STATE.00 0 0 0 
+STATE.01 1 0 1 
+STATE.10 1 1 0 

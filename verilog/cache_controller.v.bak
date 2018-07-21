@@ -1,0 +1,6 @@
+module cache_controller();
+
+
+reg [35:0] cache [7:0];
+
+endmodule

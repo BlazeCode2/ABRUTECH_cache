@@ -1,0 +1,185 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'cache_controller:cache_ctrl|cache[0][10]'
+Slack : -10.760
+TNS   : -146.700
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -0.711
+TNS   : -0.711
+
+Type  : Slow 1200mV 85C Model Setup 'debouncer:clock_sel_button|button_out'
+Slack : 0.150
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'comb_6|_50MHz_to_25MHz|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 1.111
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'comb_6|_50MHz_to_25MHz|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 4.110
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'comb_6|_50MHz_to_25MHz|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.185
+TNS   : -0.281
+
+Type  : Slow 1200mV 85C Model Hold 'comb_6|_50MHz_to_25MHz|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -0.057
+TNS   : -0.456
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : 0.402
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'debouncer:clock_sel_button|button_out'
+Slack : 0.440
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'cache_controller:cache_ctrl|cache[0][10]'
+Slack : 0.519
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'debouncer:clock_sel_button|button_out'
+Slack : -1.285
+TNS   : -2.570
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'cache_controller:cache_ctrl|cache[0][10]'
+Slack : -0.059
+TNS   : -0.632
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : 9.733
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'comb_6|_50MHz_to_25MHz|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 19.662
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'comb_6|_50MHz_to_25MHz|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 49.688
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'cache_controller:cache_ctrl|cache[0][10]'
+Slack : -10.212
+TNS   : -138.538
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -0.554
+TNS   : -0.554
+
+Type  : Slow 1200mV 0C Model Setup 'debouncer:clock_sel_button|button_out'
+Slack : 0.230
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'comb_6|_50MHz_to_25MHz|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 1.948
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'comb_6|_50MHz_to_25MHz|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 4.655
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'comb_6|_50MHz_to_25MHz|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.125
+TNS   : -0.221
+
+Type  : Slow 1200mV 0C Model Hold 'comb_6|_50MHz_to_25MHz|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -0.058
+TNS   : -0.464
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : 0.353
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'debouncer:clock_sel_button|button_out'
+Slack : 0.387
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'cache_controller:cache_ctrl|cache[0][10]'
+Slack : 0.563
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'debouncer:clock_sel_button|button_out'
+Slack : -1.285
+TNS   : -2.570
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'cache_controller:cache_ctrl|cache[0][10]'
+Slack : -0.088
+TNS   : -1.218
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : 9.761
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'comb_6|_50MHz_to_25MHz|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 19.602
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'comb_6|_50MHz_to_25MHz|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 49.628
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'cache_controller:cache_ctrl|cache[0][10]'
+Slack : -5.361
+TNS   : -71.786
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -0.219
+TNS   : -0.219
+
+Type  : Fast 1200mV 0C Model Setup 'debouncer:clock_sel_button|button_out'
+Slack : 0.598
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'comb_6|_50MHz_to_25MHz|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 5.450
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'comb_6|_50MHz_to_25MHz|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 6.608
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'comb_6|_50MHz_to_25MHz|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.172
+TNS   : -0.538
+
+Type  : Fast 1200mV 0C Model Hold 'comb_6|_50MHz_to_25MHz|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -0.075
+TNS   : -0.600
+
+Type  : Fast 1200mV 0C Model Hold 'cache_controller:cache_ctrl|cache[0][10]'
+Slack : 0.117
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : 0.166
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'debouncer:clock_sel_button|button_out'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'debouncer:clock_sel_button|button_out'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'cache_controller:cache_ctrl|cache[0][10]'
+Slack : 0.030
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : 9.443
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'comb_6|_50MHz_to_25MHz|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 19.596
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'comb_6|_50MHz_to_25MHz|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 49.599
+TNS   : 0.000
+
+------------------------------------------------------------

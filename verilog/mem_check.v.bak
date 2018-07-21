@@ -1,0 +1,8 @@
+module mem_check(clk,);
+
+RAM ram(
+	.address,
+	.clock,
+	.data,
+	.wren,
+	.q);

@@ -1,0 +1,71 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/downsampling_processor_fpga/Cache
+valtsyncram
+!s110 1524505766
+!i10b 1
+!s100 CUDgSe@[l;GlXC?BL@Y?H0
+I0ooNZYbU0eH?Z`oH^8H8^3
+Z0 V`JN@9S9cnhjKRR_L]QIcM3
+Z1 dD:/downsampling_processor_fpga/Cache v1.1
+w1429759125
+8D:/altera/15.0/quartus/eda/fv_lib/verilog/altsyncram.v
+FD:/altera/15.0/quartus/eda/fv_lib/verilog/altsyncram.v
+L0 15
+Z2 OV;L;10.3d;59
+r1
+!s85 0
+31
+!s108 1524505766.665000
+!s107 D:/altera/15.0/quartus/eda/fv_lib/verilog/altsyncram.v|
+!s90 -reportprogress|300|-work|work|D:/altera/15.0/quartus/eda/fv_lib/verilog/altsyncram.v|
+!i113 1
+Z3 o-work work
+vRAM
+!s110 1524506293
+!i10b 1
+!s100 1kRj7oE^UUQU`W`R4BH430
+IgPV2UPMKZk_bihH>j<HNG1
+R0
+R1
+w1524407315
+8RAM.v
+FRAM.v
+L0 40
+R2
+r1
+!s85 0
+31
+!s108 1524506293.901000
+!s107 RAM.v|
+!s90 -reportprogress|300|-timescale|1ns/1ns|RAM.v|
+!i113 1
+o-timescale 1ns/1ns
+n@r@a@m
+vtoggle_sw_debounce
+!s110 1524645886
+!i10b 1
+!s100 k71J:F[0WEl>m6a`KIONl0
+I:d2j9z4Dd:Q5?TaUaR;PH2
+R0
+R1
+w1524645566
+8D:/downsampling_processor_fpga/Cache v1.1/toggle_sw_debounce.v
+FD:/downsampling_processor_fpga/Cache v1.1/toggle_sw_debounce.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1524645886.934000
+!s107 D:/downsampling_processor_fpga/Cache v1.1/toggle_sw_debounce.v|
+!s90 -reportprogress|300|-work|work|D:/downsampling_processor_fpga/Cache v1.1/toggle_sw_debounce.v|
+!i113 1
+R3
